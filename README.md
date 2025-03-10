@@ -4,7 +4,7 @@
 
 **♟️ exit** - coder by experience, passion.
 
-Their I share my own projects and projects at school.
+There I share my own projects and projects at school.
 
 
 ##  📊 GitHub Stats & 🛠️ Skills
