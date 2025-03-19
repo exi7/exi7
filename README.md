@@ -31,6 +31,8 @@ There I share my own projects and projects at school.
 
 ## 📡 Projects
 - LinkHub (Directory)
+- HangMan Game
+- Exit Folder (Progams made at school)
 
 ## 🔐 Mission
 - Minimalism
