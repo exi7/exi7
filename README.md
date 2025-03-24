@@ -2,7 +2,7 @@
 
 **I had created a discord server where a community is growing up. 🚀**
 
-**♟️ exit** - coder by experience, passion.
+**♟️ exit** - coder for experience, passion.
 
 There I share my own projects and projects at school.
 
